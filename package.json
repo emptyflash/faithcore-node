@@ -35,8 +35,8 @@
     }
   ],
   "bin": {
-    "faithcore-node": "./bin/litecore-node",
-    "faithcoind": "./bin/litecoind"
+    "faithcore-node": "./bin/faithcore-node",
+    "faithcoind": "./bin/faithcoind"
   },
   "scripts": {
     "preinstall": "./scripts/download",
