@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var faithcore = require('../lib/cli/bitcore');
+faithcore();
