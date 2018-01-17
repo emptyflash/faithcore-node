@@ -35,7 +35,8 @@
     }
   ],
   "bin": {
-    "faithcore-node": "./bin/faithcore-node"
+    "faithcore-node": "./bin/faithcore-node",
+    "faithcored": "./bin/faithcored"
   },
   "scripts": {
     "preinstall": "./scripts/download",
